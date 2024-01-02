@@ -1,0 +1,3 @@
+oryks-youtube
+langchain
+crewai
